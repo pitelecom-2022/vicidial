@@ -16,6 +16,8 @@ dataTables http://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js
 
 Code is free of charge. You can use it to improve your daily operations of vicidial.
 
+If you need any assistance please contact us @ pitelecomsarl@gmail.com
+
 If you find this development useful, consider make a donation to paypal@pi-telecom.ma
 
 Thank you!
