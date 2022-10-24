@@ -1,7 +1,10 @@
+//dbConfig.php to establish connection with vicidial/asterisk database.
+
 <?php
 	$dsn = "mysql: host=localhost; dbname=asterisk";
-	$username= 'cron';
-	$password = 'vpwwnx6x';
+// adjust $username & $password to your local db crendentials
+	$username= '';
+	$password = '';
 	$options = [];
 
 	try {
