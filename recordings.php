@@ -1,3 +1,7 @@
+# recordings.php - Vicidial recordings access page 
+
+# Copyright (c) Pi Telecom (pitelecomsarl@gmail.com) 2022      LICENCE: AGPLv2
+
 <?php
 require_once 'dbConfig.php';
 include 'functions.php';
