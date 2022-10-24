@@ -1,4 +1,4 @@
-# vicidial
+# vicidial-recordings
 
 New and modern looking interface to access vicidial recordings.
 
