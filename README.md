@@ -1,8 +1,8 @@
 # vicidial-recordings
 
-New and modern looking interface to access vicidial recordings. A
+New and modern looking interface to access vicidial recordings. 
 
-ccess recordings.php with your browsers after updating your dbConfig.php file (put in your asterisk database information)
+Access recordings.php with your browsers after updating your dbConfig.php file (put in your asterisk database information)
 
 Vicidial is an open source dialer & contact center solution that is around for more than 20 years now (http://www.vicidial.org)
 
