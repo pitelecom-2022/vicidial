@@ -1,13 +1,15 @@
-# recordings.php - Vicidial recordings access page 
 
-# Copyright (c) Pi Telecom (pitelecomsarl@gmail.com) 2022  
 
 <?php
 require_once 'dbConfig.php';
 include 'functions.php';
+
+# recordings.php - Vicidial recordings access page 
+
+# Copyright (c) Pi Telecom (pitelecomsarl@gmail.com) 2022  
 ?>
 
-<!DOCTYPEM>
+<!DOCTYPE HTML>
 <html>
 <head>
 <title>Vicidial Recordings</title>
@@ -16,7 +18,7 @@ include 'functions.php';
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="./w3.css">
+<link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" type="text/css" href="https:///cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
