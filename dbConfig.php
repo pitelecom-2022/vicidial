@@ -1,6 +1,8 @@
-//dbConfig.php to establish connection with vicidial/asterisk database.
 
 <?php
+
+//dbConfig.php to establish connection with vicidial/asterisk database.
+
 	$dsn = "mysql: host=localhost; dbname=asterisk";
 // adjust $username & $password to your local db crendentials
 	$username= '';
